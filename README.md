@@ -36,10 +36,10 @@
 ## Link
 
 Repo: 
-https://github.com/EricKim86/dare-devil-deals
+https://github.com/dbedrossian/dare-devil-deals
 
 Heroku:
-[https://.herokuapp.com/home](https://lit-dusk-01074.herokuapp.com/)
+[https://.herokuapp.com/home](https://still-caverns-91177.herokuapp.com/)
 
 ## Usage
 
