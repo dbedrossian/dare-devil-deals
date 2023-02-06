@@ -39,7 +39,7 @@ Repo:
 https://github.com/dbedrossian/dare-devil-deals
 
 Heroku:
-[https://.herokuapp.com/home](https://still-caverns-91177.herokuapp.com/)
+https://still-caverns-91177.herokuapp.com/
 
 ## Usage
 
